@@ -1,0 +1,4 @@
+com\virgingames\constants\EndPoints.class
+com\virgingames\errormessage\ErrorMessage.class
+com\virgingames\steps\GameSteps.class
+com\virgingames\utils\PropertyReader.class

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin games test","This test will get and verify that all Games has defaultgamefrequency = 300000","SUCCESS","2020-06-04T15:28:20.241+01:00[Europe/London]","0.0","35.48"
+"Virgin games test","This test will verify that the startTime for all Games is always future timestamp i.e. startTimes is greater than timeStamp ","SUCCESS","2020-06-04T15:28:57.526+01:00[Europe/London]","0.0","1.84"
